@@ -1,0 +1,10 @@
+[package]
+name = "case01"
+version = "0.2.0"
+authors = ["CicadaHaskell <CicadaHaskell@gmail.com>"]
+description = "This program outputs 0 and 1 with a probability of one in two. It's like the two sides of a coin."
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+rand ="0.8.3"
